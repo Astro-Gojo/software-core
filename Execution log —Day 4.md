@@ -1,4 +1,4 @@
-# Day 4 | Jan 8, 2025
+# Day 4 | Jan 26, 2026
 
 ## What I did
 - Learned functions as subsystems in a system
@@ -45,4 +45,5 @@ Functions = subsystems in a machine. Each has a job, inputs, outputs, and can be
 
 **Data flow:**
 ```
+
 Input (parameters) → [Function body] → Output (return value)
