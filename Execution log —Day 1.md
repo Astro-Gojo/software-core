@@ -1,4 +1,4 @@
-# Day 1 | Jan 5, 2025
+# Day 1 | Jan 5, 2026
 
 ## What I did
 - Created `software-core` repository
@@ -12,4 +12,5 @@
 Starting light is starting right. Structure before speed.
 
 ## Tomorrow's focus
+
 beginning...
