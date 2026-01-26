@@ -1,4 +1,4 @@
-# Day 3 | Jan 7, 2025
+# Day 3 | Jan 25 2026
 
 ## What I did
 - Defined what "software" means in my identity
@@ -27,3 +27,4 @@ I write software to *observe, automate, and interact with hardware* — not to b
 - Advanced OOP, design patterns
 - ML model training
 - Competitive programming
+
